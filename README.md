@@ -2,12 +2,12 @@
 
 ## About Me
 
-- 👀 I’m interested in Big Data and Data Science applications.
-- 🌱 I’m currently learning Large Language Models (LLMs).
-- 💞️ I’m looking to collaborate on management and analysis of big environmental data.
-- 📫 How to reach me I left my linkedin [@rosavirginiae](https://www.linkedin.com/in/rosavirginiae)
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I enjoy painting!
+- 👀 I’m interested in **Big Data** and **Data Science** applications.
+- 🌱 I’m currently learning **Large Language Models (LLMs)**.
+- 💞️ I’m looking to collaborate on the **management and analysis of big environmental data**.
+- 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/rosavirginiae).
+- 😄 Pronouns: **She/Her**.
+- ⚡ Fun fact: I enjoy painting! 🎨
 
 ## Other GitHub Accounts
 
