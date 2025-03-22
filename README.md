@@ -11,9 +11,9 @@
 
 ## Other GitHub Accounts
 
-- 🐙 [@encinasquille](https://github.com/encinasquille)
-- 🐱 [@rosaencinas](https://github.com/rosaencinas)
-- 🐍 [@datalifepy](https://github.com/datalifepy)
+- 🐙 [@encinasquille](https://github.com/encinasquille) – Main repository for research projects. 
+- 🐱 [@rosaencinas](https://github.com/rosaencinas) – Personal projects and experimental work.
+- 🐍 [@datalifepy](https://github.com/datalifepy) – Dedicated to **DataLifePy**, a Python library for data analysis.
 
 ## Get in Touch
 
