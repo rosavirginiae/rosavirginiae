@@ -29,7 +29,6 @@
 A comprehensive Python library that supports the entire **Data Science lifecycle**, providing modular tools for **data ingestion, transformation, and visualization**. 
 - **Features:**
   - Compatible with **Jupyter Notebooks** for interactive analysis.
-  - Supports **data cleaning**, **modification**, and **integration**.
   - Emphasizes reproducibility and ease of use.
 
 ### 🌍 **[Environmental Data Portal Project](https://github.com/encinasquille/ProjSGA)**
