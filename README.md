@@ -51,6 +51,19 @@ A conversational chatbot project developed during the **2020-2021 Pandemic**, fo
   - Built using **Python** and **dialog management frameworks**.
   - 📄 Published in *Interfases Journal*: [10.26439/interfases2021.n014.5451](https://doi.org/10.26439/interfases2021.n014.5451)
 
+### 🤖 **[RPA Performance Analysis](https://github.com/encinasquille/RPA_Performance_Analysis)**
+A project focused on developing a comprehensive methodology for **analyzing and improving the performance of Robotic Process Automation (RPA)** systems.
+- **Key Contributions:**
+  - Designed performance metrics and analysis techniques for RPA systems.
+  - Evaluated efficiency and optimization in industrial environments.
+  - 📄 Published in *Sustainability*: [10.3390/su15043702](https://doi.org/10.3390/su15043702)
+
+### 🤖 **[Intelligent RPA System](https://github.com/encinasquille/Intelligent_RPA_System)**
+Development of an **Intelligent Robotic Process Automation** framework to automate repetitive tasks using advanced AI models.
+- **Highlights:**
+  - Implemented intelligent decision-making workflows.
+  - Improved operational efficiency through automation.
+  - 📄 Published in *IEEE Access*: [10.1109/ACCESS.2021.3075693](https://doi.org/10.1109/ACCESS.2021.3075693)
 
 <!---
 rosavirginiae/rosavirginiae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
