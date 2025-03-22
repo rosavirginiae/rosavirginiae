@@ -65,6 +65,14 @@ Development of an **Intelligent Robotic Process Automation** framework to automa
   - Improved operational efficiency through automation.
   - 📄 Published in *IEEE Access*: [10.1109/ACCESS.2021.3075693](https://doi.org/10.1109/ACCESS.2021.3075693)
 
+### 📊 **[SVD Analysis Project](https://github.com/encinasquille/SVD_Analysis_Project)**
+A project utilizing **Singular Value Decomposition (SVD)** for **spectral analysis** and **text processing** over scientific literature.
+- **Highlights:**
+  - Applied **SVD** techniques for dimensionality reduction.
+  - Analyzed patterns in **scientific publications** and extracted key topics.
+  - 📄 Published in *SAC - 29th Annual ACM Symposium on Applied Computing*: [10.1145/2554850.2555151](https://doi.org/10.1145/2554850.2555151)
+
+
 <!---
 rosavirginiae/rosavirginiae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
