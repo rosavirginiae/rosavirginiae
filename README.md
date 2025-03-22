@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👀 I’m interested in **Big Data**, **Data Science** and **Open Science** applications.
+- 👀 I’m interested in **Data Science** and **Open Science** applications.
 - 🌱 I’m currently learning **Large Language Models (LLMs)**.
 - 💞️ I’m looking to collaborate on the **management and analysis of big environmental data**.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/rosavirginiae).
