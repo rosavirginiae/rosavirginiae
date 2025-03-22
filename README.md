@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in **Data Science** and **Open Science** applications.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **advanced data visualization techniques**.
-- 💞️ I’m passionate about advancing Open Science in all its dimensions, including Open Access, FAIR data principles, and contributing to frameworks and methodologies that foster transparency and collaboration.
+- 💞️ I’m passionate about advancing **Open Science** in all its dimensions, including **Open Access**, **FAIR data principles**, and contributing to frameworks and methodologies that foster transparency and collaboration.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/rosavirginiae).
 - 😄 Pronouns: **She/Her**.
 - ⚡ Fun fact: I enjoy painting and exploring creative data visualizations. 🎨
