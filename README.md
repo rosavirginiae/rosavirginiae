@@ -13,6 +13,7 @@
 
 - 🐙 [@encinasquille](https://github.com/encinasquille)
 - 🐱 [@rosaencinas](https://github.com/rosaencinas)
+- 🐍 [@datalifepy](https://github.com/datalifepy)
 
 ## Get in Touch
 
