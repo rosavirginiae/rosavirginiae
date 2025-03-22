@@ -25,10 +25,32 @@
 
 ### 📈 Data Science and Big Data Projects
 
-- **[DataLifecyclePy](https://github.com/encinasquille/DataLifecyclePy)**: This project is a Python library designed to help data analysis by guiding users through the steps of the Data Science methodology in an easy, simple, and interactive way. It is compatible with Jupyter notebooks and the IPython kernel, providing an intuitive and efficient data analysis experience.
-- **[Environmental data portal project](https://github.com/encinasquille/ProjSGA)**: Environmental data portal project for management integrated environmental data, covering the process of quality, storage, sharing, selection and visualization of data, aided by Visual Analytics techniques and FAIR data management principles, considering state of the art from the point of view of data management scientific studies through data citation (DOI). The data from this project are treated as open, with the possibility of synthesis generating new data products. Creative Commons CC BY 4.0 is the open data use and reuse license standard. This work has been published and is available at the following link: [https://doi.org/10.1109/ACCESS.2023.3269660](https://doi.org/10.1109/ACCESS.2023.3269660) 
-- **[DTM Project](https://github.com/encinasquille/Identify-topics-via-DTM)**: This work has been published and is available at the following link: [https://doi.org/10.1109/ACCESS.2023.3269660](https://doi.org/10.1109/ACCESS.2023.3269660)
-- **[Saminbot](https://github.com/rosaencinas/saminbot)**: Project carried out during the 2020-2021 Pandemic period. [https://doi.org/10.26439/interfases2021.n014.5451](https://doi.org/10.26439/interfases2021.n014.5451)
+### 🔍 **[DataLifecyclePy](https://github.com/encinasquille/DataLifecyclePy)**
+A comprehensive Python library that supports the entire **Data Science lifecycle**, providing modular tools for **data ingestion, transformation, and visualization**. 
+- **Features:**
+  - Compatible with **Jupyter Notebooks** for interactive analysis.
+  - Supports **data cleaning**, **modification**, and **integration**.
+  - Emphasizes reproducibility and ease of use.
+
+### 🌍 **[Environmental Data Portal Project](https://github.com/encinasquille/ProjSGA)**
+A **FAIR-compliant** environmental data portal for **managing, sharing, and visualizing** large-scale environmental datasets using **Visual Analytics** techniques.
+- **Key Contributions:**
+  - Developed an open-access portal for atmospheric and environmental measurements.
+  - Integrates **data citation (DOI)** and **Creative Commons CC BY 4.0** for open data reuse.
+  - 📄 Published in *IEEE Access*: [10.1109/ACCESS.2023.3269660](https://doi.org/10.1109/ACCESS.2023.3269660)
+
+### 📚 **[Dynamic Topic Modeling (DTM) Project](https://github.com/encinasquille/Identify-topics-via-DTM)**
+Implementation of **Dynamic Topic Modeling (DTM)** techniques to identify evolving research trends in scientific literature.
+- **Highlights:**
+  - Uses advanced **Natural Language Processing (NLP)** models.
+  - Analyzes temporal changes in **research topics**.
+  - 📄 Published in *IEEE Access*: [10.1109/ACCESS.2023.3269660](https://doi.org/10.1109/ACCESS.2023.3269660)
+
+### 🤖 **[Saminbot](https://github.com/rosaencinas/saminbot)**
+A conversational chatbot project developed during the **2020-2021 Pandemic**, focusing on community outreach and health support.
+- **Details:**
+  - Built using **Python** and **dialog management frameworks**.
+  - 📄 Published in *Interfases Journal*: [10.26439/interfases2021.n014.5451](https://doi.org/10.26439/interfases2021.n014.5451)
 
 
 <!---
